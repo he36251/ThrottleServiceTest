@@ -43,7 +43,7 @@ namespace Testing
             {
                 Task.Factory.StartNew(ThrottlerManager.CheckThrottlers, cancellationTokenSource.Token);
 
-                Thread.Sleep(500);
+                Thread.Sleep(1000);
             }
         }
 

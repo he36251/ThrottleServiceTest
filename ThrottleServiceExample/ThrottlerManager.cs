@@ -17,7 +17,7 @@ namespace ThrottleServiceTest
 
             foreach (KeyValuePair<string, Throttler> throttler in _throttlers)
             {
-                if (throttler.Value.CheckQueue())
+                if (!throttler.Value.CheckQueue())
                 {
                     _throttlers.TryRemove(throttler.Value.Id, out _);
                     Console.WriteLine($"Throttler: {throttler.Value.Id} has ended!");

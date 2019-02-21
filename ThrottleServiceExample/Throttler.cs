@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Globalization;
 
 namespace ThrottleServiceTest
 {
@@ -27,7 +28,7 @@ namespace ThrottleServiceTest
         {
             Console.WriteLine($"Checking... Stopwatch: {Stopwatch.Elapsed.Seconds}s");
             
-            if (Stopwatch.ElapsedMilliseconds < (ThrottleServiceConstant.DelayMillisec - CompensationTime()) || ItemsQueue.Count == 0)
+            if (Stopwatch.ElapsedMilliseconds < (ThrottleServiceConstant.DelayMillisec - CompensationTime()))
             {
                 return true;
             }
@@ -53,7 +54,7 @@ namespace ThrottleServiceTest
             //Stops having items fired immediately
             if (ItemCount >= 10)
             {
-                return (ItemCount - 1) * initialDelayPenalty;
+                return 9 * initialDelayPenalty;
             }
             
             return ItemCount * initialDelayPenalty;

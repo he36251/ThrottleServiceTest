@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08448ff-6855-4271-b19c-fd6183b4dfdf" name="Default Changelist" comment="" />
+    <list default="true" id="b08448ff-6855-4271-b19c-fd6183b4dfdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ThrottleServiceTest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ThrottleServiceTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ThrottleServiceTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Debug/netcoreapp2.2/ThrottleServiceExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/bin/Debug/netcoreapp2.2/ThrottleServiceExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Debug/netcoreapp2.2/ThrottleServiceExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/bin/Debug/netcoreapp2.2/ThrottleServiceExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThrottleServiceExample/bin/Debug/netcoreapp2.2/ThrottleServiceExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ThrottleServiceExample/bin/Debug/netcoreapp2.2/ThrottleServiceExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThrottleServiceExample/bin/Debug/netcoreapp2.2/ThrottleServiceExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ThrottleServiceExample/bin/Debug/netcoreapp2.2/ThrottleServiceExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThrottleServiceExample/obj/Debug/netcoreapp2.2/ThrottleServiceExample.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ThrottleServiceExample/obj/Debug/netcoreapp2.2/ThrottleServiceExample.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThrottleServiceExample/obj/Debug/netcoreapp2.2/ThrottleServiceExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ThrottleServiceExample/obj/Debug/netcoreapp2.2/ThrottleServiceExample.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,26 +36,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+            <state relative-caret-position="290">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <marker date="1550720334774" expanded="true" signature="6:73" ph="..." />
-                <marker date="1550720334774" expanded="true" signature="104:2955" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="133:2953" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="384:623" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="657:1131" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="902:959" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="1174:1645" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="1255:1309" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="1480:1570" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="1893:2009" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="2210:2520" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="2317:2411" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="2578:2947" ph="{...}" />
-                <marker date="1550720334774" expanded="true" signature="2659:2937" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="6:101" ph="..." />
+                <marker date="1550721776953" expanded="true" signature="132:2944" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="161:2942" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="412:651" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="685:1134" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="905:962" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="1177:1634" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="1258:1312" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="1483:1559" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="1882:1998" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="2199:2509" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="2306:2400" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="2567:2936" ph="{...}" />
+                <marker date="1550721776953" expanded="true" signature="2648:2926" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,39 +78,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+            <state relative-caret-position="285">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding>
-                <marker date="1550719656428" expanded="true" signature="6:84" ph="..." />
-                <marker date="1550719656428" expanded="true" signature="115:1308" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="158:1306" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="334:793" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="381:433" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="513:783" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="577:769" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="850:1300" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="995:1069" ph="{...}" />
-                <marker date="1550719656428" expanded="true" signature="1086:1290" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="6:84" ph="..." />
+                <marker date="1550721724907" expanded="true" signature="115:1309" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="158:1307" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="334:794" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="381:433" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="513:784" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="578:770" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="851:1301" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="996:1070" ph="{...}" />
+                <marker date="1550721724907" expanded="true" signature="1087:1291" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Testing/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="359">
+              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
               <folding>
-                <marker date="1550720170747" expanded="true" signature="6:128" ph="..." />
-                <marker date="1550720170747" expanded="true" signature="147:2278" ph="{...}" />
-                <marker date="1550720170747" expanded="true" signature="167:2276" ph="{...}" />
-                <marker date="1550720170747" expanded="true" signature="258:1938" ph="{...}" />
-                <marker date="1550720170747" expanded="true" signature="339:1099" ph="/* List&lt;QueueItem&gt; testList = new List&lt;QueueItem&gt; ... */" />
-                <marker date="1550720170747" expanded="true" signature="1496:1576" ph="{...}" />
-                <marker date="1550720170747" expanded="true" signature="1760:1928" ph="{...}" />
-                <marker date="1550720170747" expanded="true" signature="2065:2270" ph="{...}" />
-                <marker date="1550720170747" expanded="true" signature="2123:2260" ph="{...}" />
+                <marker date="1550721809174" expanded="true" signature="6:128" ph="..." />
+                <marker date="1550721809174" expanded="true" signature="147:2279" ph="{...}" />
+                <marker date="1550721809174" expanded="true" signature="167:2277" ph="{...}" />
+                <marker date="1550721809174" expanded="true" signature="258:1939" ph="{...}" />
+                <marker date="1550721809174" expanded="true" signature="339:1099" ph="/* List&lt;QueueItem&gt; testList = new List&lt;QueueItem&gt; ... */" />
+                <marker date="1550721809174" expanded="true" signature="1496:1576" ph="{...}" />
+                <marker date="1550721809174" expanded="true" signature="1760:1929" ph="{...}" />
+                <marker date="1550721809174" expanded="true" signature="2066:2271" ph="{...}" />
+                <marker date="1550721809174" expanded="true" signature="2124:2261" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -122,6 +134,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/ThrottleService.cs" root0="FORCE_HIGHLIGHTING" />
@@ -140,11 +155,11 @@
         <option value="$PROJECT_DIR$/ThrottleServiceExample/Throttler/Throttler.cs" />
         <option value="$PROJECT_DIR$/Throttler.cs" />
         <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/ThrottleService.cs" />
-        <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" />
         <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/Constants.cs" />
-        <option value="$PROJECT_DIR$/Testing/Program.cs" />
         <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" />
         <option value="$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs" />
+        <option value="$PROJECT_DIR$/Testing/Program.cs" />
       </list>
     </option>
   </component>
@@ -153,6 +168,9 @@
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -205,6 +223,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,12 +296,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550613359617</updated>
       <workItem from="1550613360826" duration="5952000" />
-      <workItem from="1550619431581" duration="22073000" />
+      <workItem from="1550619431581" duration="23247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28025000" />
+    <option name="totallyTimeSpent" value="29199000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,17 +358,17 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs</url>
-          <line>30</line>
-          <properties documentPath="$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" initialLine="28">
+          <url>file://$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs" initialLine="34">
             <startOffsets>
-              <option value="922" />
+              <option value="963" />
             </startOffsets>
             <endOffsets>
-              <option value="995" />
+              <option value="963" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -377,14 +396,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/Constants.cs">
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="405">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
           <folding>
-            <marker date="1550719695437" expanded="true" signature="29:268" ph="{...}" />
-            <marker date="1550719695437" expanded="true" signature="79:192" ph="{...}" />
-            <marker date="1550719695437" expanded="true" signature="224:266" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="29:791" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="58:789" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="279:783" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="305:773" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="406:693" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -401,76 +422,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/Constants.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state relative-caret-position="75">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
           <folding>
-            <marker date="1550720170747" expanded="true" signature="6:128" ph="..." />
-            <marker date="1550720170747" expanded="true" signature="147:2278" ph="{...}" />
-            <marker date="1550720170747" expanded="true" signature="167:2276" ph="{...}" />
-            <marker date="1550720170747" expanded="true" signature="258:1938" ph="{...}" />
-            <marker date="1550720170747" expanded="true" signature="339:1099" ph="/* List&lt;QueueItem&gt; testList = new List&lt;QueueItem&gt; ... */" />
-            <marker date="1550720170747" expanded="true" signature="1496:1576" ph="{...}" />
-            <marker date="1550720170747" expanded="true" signature="1760:1928" ph="{...}" />
-            <marker date="1550720170747" expanded="true" signature="2065:2270" ph="{...}" />
-            <marker date="1550720170747" expanded="true" signature="2123:2260" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-          <folding>
-            <marker date="1550719656428" expanded="true" signature="6:84" ph="..." />
-            <marker date="1550719656428" expanded="true" signature="115:1308" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="158:1306" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="334:793" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="381:433" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="513:783" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="577:769" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="850:1300" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="995:1069" ph="{...}" />
-            <marker date="1550719656428" expanded="true" signature="1086:1290" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding>
-            <marker date="1550720214093" expanded="true" signature="29:791" ph="{...}" />
-            <marker date="1550720214093" expanded="true" signature="58:789" ph="{...}" />
-            <marker date="1550720214093" expanded="true" signature="279:783" ph="{...}" />
-            <marker date="1550720214093" expanded="true" signature="305:773" ph="{...}" />
-            <marker date="1550720214093" expanded="true" signature="406:693" ph="{...}" />
+            <marker date="1550719695437" expanded="true" signature="29:268" ph="{...}" />
+            <marker date="1550719695437" expanded="true" signature="79:192" ph="{...}" />
+            <marker date="1550719695437" expanded="true" signature="224:266" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+        <state relative-caret-position="290">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
-            <marker date="1550720334774" expanded="true" signature="6:73" ph="..." />
-            <marker date="1550720334774" expanded="true" signature="104:2955" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="133:2953" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="384:623" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="657:1131" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="902:959" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="1174:1645" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="1255:1309" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="1480:1570" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="1893:2009" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="2210:2520" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="2317:2411" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="2578:2947" ph="{...}" />
-            <marker date="1550720334774" expanded="true" signature="2659:2937" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="6:101" ph="..." />
+            <marker date="1550721776953" expanded="true" signature="132:2944" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="161:2942" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="412:651" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="685:1134" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="905:962" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="1177:1634" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="1258:1312" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="1483:1559" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="1882:1998" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="2199:2509" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="2306:2400" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="2567:2936" ph="{...}" />
+            <marker date="1550721776953" expanded="true" signature="2648:2926" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <marker date="1550721724907" expanded="true" signature="6:84" ph="..." />
+            <marker date="1550721724907" expanded="true" signature="115:1309" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="158:1307" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="334:794" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="381:433" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="513:784" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="578:770" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="851:1301" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="996:1070" ph="{...}" />
+            <marker date="1550721724907" expanded="true" signature="1087:1291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+          <folding>
+            <marker date="1550721809174" expanded="true" signature="6:128" ph="..." />
+            <marker date="1550721809174" expanded="true" signature="147:2279" ph="{...}" />
+            <marker date="1550721809174" expanded="true" signature="167:2277" ph="{...}" />
+            <marker date="1550721809174" expanded="true" signature="258:1939" ph="{...}" />
+            <marker date="1550721809174" expanded="true" signature="339:1099" ph="/* List&lt;QueueItem&gt; testList = new List&lt;QueueItem&gt; ... */" />
+            <marker date="1550721809174" expanded="true" signature="1496:1576" ph="{...}" />
+            <marker date="1550721809174" expanded="true" signature="1760:1929" ph="{...}" />
+            <marker date="1550721809174" expanded="true" signature="2066:2271" ph="{...}" />
+            <marker date="1550721809174" expanded="true" signature="2124:2261" ph="{...}" />
           </folding>
         </state>
       </provider>
