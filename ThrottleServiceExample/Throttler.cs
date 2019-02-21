@@ -26,7 +26,7 @@ namespace ThrottleServiceTest
 
         public bool CheckQueue()
         {
-            Console.WriteLine($"Checking... Stopwatch: {Stopwatch.Elapsed.Seconds}s");
+            Console.WriteLine($"Checking: {Id}, Stopwatch: {Stopwatch.Elapsed.Seconds}s, Delay: {ThrottleServiceConstant.DelayMillisec - CompensationTime()}");
             
             if (Stopwatch.ElapsedMilliseconds < (ThrottleServiceConstant.DelayMillisec - CompensationTime()))
             {
@@ -62,7 +62,7 @@ namespace ThrottleServiceTest
 
         public void AddItem(QueueItem item)
         {
-            Console.WriteLine($"Item added: {item.Type}");
+//            Console.WriteLine($"Item added: {item.Type}");
             
             //Deal with first 2 items immediately
             if (ItemCount < ThrottleServiceConstant.ThrottleThreshold)

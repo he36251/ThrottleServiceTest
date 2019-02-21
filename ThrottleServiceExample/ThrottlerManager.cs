@@ -15,12 +15,12 @@ namespace ThrottleServiceTest
                 return;
             }
 
-            foreach (KeyValuePair<string, Throttler> throttler in _throttlers)
+            foreach (var (key, throttler) in _throttlers)
             {
-                if (!throttler.Value.CheckQueue())
+                if (!throttler.CheckQueue())
                 {
-                    _throttlers.TryRemove(throttler.Value.Id, out _);
-                    Console.WriteLine($"Throttler: {throttler.Value.Id} has ended!");
+                    _throttlers.TryRemove(key, out _);
+                    Console.WriteLine($"Throttler: {key} has ended!");
                 }
             }
         }
