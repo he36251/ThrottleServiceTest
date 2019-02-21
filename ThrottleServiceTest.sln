@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrottleServiceExample", "ThrottleServiceExample\ThrottleServiceExample.csproj", "{4C7E8B9C-B752-46FC-814E-798B25293EC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Worker", "Worker", "{7A40FF9F-B6EB-4A67-850F-D972C808D7A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{56030A78-AA4C-4788-8E5E-3C989170EADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{578215A8-A6B5-42D0-8991-5B607443E6A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C7E8B9C-B752-46FC-814E-798B25293EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7E8B9C-B752-46FC-814E-798B25293EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7E8B9C-B752-46FC-814E-798B25293EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7E8B9C-B752-46FC-814E-798B25293EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578215A8-A6B5-42D0-8991-5B607443E6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578215A8-A6B5-42D0-8991-5B607443E6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578215A8-A6B5-42D0-8991-5B607443E6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578215A8-A6B5-42D0-8991-5B607443E6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C7E8B9C-B752-46FC-814E-798B25293EC1} = {7A40FF9F-B6EB-4A67-850F-D972C808D7A5}
+		{578215A8-A6B5-42D0-8991-5B607443E6A6} = {56030A78-AA4C-4788-8E5E-3C989170EADB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_ThrottleServiceTest.-534929419.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Test" t="Include" />
+      <e p="Testing" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Testing.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Testing.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ThrottleServiceExample" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ThrottleServiceExample.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Throttler.cs" t="Include" />
+        <e p="ThrottlerManager.cs" t="Include" />
+        <e p="ThrottleService" t="Include">
+          <e p="Constants.cs" t="Include" />
+          <e p="QueueItem.cs" t="Include" />
+          <e p="ThrottleService.cs" t="Include" />
+        </e>
+        <e p="ThrottleServiceExample.csproj" t="IncludeRecursive" />
+        <e p="ThrottleServiceExample.csproj.DotSettings" t="Include" />
+      </e>
+      <e p="ThrottleServiceTest.sln" t="IncludeFlat" />
+      <e p="Worker" t="Include" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+/Users/gawohe/ThrottleServiceTest/Testing/bin/Debug/netcoreapp2.2/Testing.deps.json
+/Users/gawohe/ThrottleServiceTest/Testing/bin/Debug/netcoreapp2.2/Testing.runtimeconfig.json
+/Users/gawohe/ThrottleServiceTest/Testing/bin/Debug/netcoreapp2.2/Testing.runtimeconfig.dev.json
+/Users/gawohe/ThrottleServiceTest/Testing/bin/Debug/netcoreapp2.2/Testing.dll
+/Users/gawohe/ThrottleServiceTest/Testing/bin/Debug/netcoreapp2.2/Testing.pdb
+/Users/gawohe/ThrottleServiceTest/Testing/bin/Debug/netcoreapp2.2/ThrottleServiceExample.dll
+/Users/gawohe/ThrottleServiceTest/Testing/bin/Debug/netcoreapp2.2/ThrottleServiceExample.pdb
+/Users/gawohe/ThrottleServiceTest/Testing/obj/Debug/netcoreapp2.2/Testing.csprojAssemblyReference.cache
+/Users/gawohe/ThrottleServiceTest/Testing/obj/Debug/netcoreapp2.2/Testing.csproj.CoreCompileInputs.cache
+/Users/gawohe/ThrottleServiceTest/Testing/obj/Debug/netcoreapp2.2/Testing.AssemblyInfoInputs.cache
+/Users/gawohe/ThrottleServiceTest/Testing/obj/Debug/netcoreapp2.2/Testing.AssemblyInfo.cs
+/Users/gawohe/ThrottleServiceTest/Testing/obj/Debug/netcoreapp2.2/Testing.csproj.CopyComplete
+/Users/gawohe/ThrottleServiceTest/Testing/obj/Debug/netcoreapp2.2/Testing.dll
+/Users/gawohe/ThrottleServiceTest/Testing/obj/Debug/netcoreapp2.2/Testing.pdb

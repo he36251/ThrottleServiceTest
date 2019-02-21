@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b08448ff-6855-4271-b19c-fd6183b4dfdf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/ThrottleService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding>
+                <marker date="1550718705789" expanded="true" signature="44:225" ph="{...}" />
+                <marker date="1550718705789" expanded="true" signature="79:220" ph="{...}" />
+                <marker date="1550718705789" expanded="true" signature="135:208" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+              <folding>
+                <marker date="1550720334774" expanded="true" signature="6:73" ph="..." />
+                <marker date="1550720334774" expanded="true" signature="104:2955" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="133:2953" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="384:623" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="657:1131" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="902:959" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="1174:1645" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="1255:1309" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="1480:1570" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="1893:2009" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="2210:2520" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="2317:2411" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="2578:2947" ph="{...}" />
+                <marker date="1550720334774" expanded="true" signature="2659:2937" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/Constants.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+              <folding>
+                <marker date="1550719695437" expanded="true" signature="29:268" ph="{...}" />
+                <marker date="1550719695437" expanded="true" signature="79:192" ph="{...}" />
+                <marker date="1550719695437" expanded="true" signature="224:266" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+              <folding>
+                <marker date="1550719656428" expanded="true" signature="6:84" ph="..." />
+                <marker date="1550719656428" expanded="true" signature="115:1308" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="158:1306" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="334:793" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="381:433" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="513:783" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="577:769" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="850:1300" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="995:1069" ph="{...}" />
+                <marker date="1550719656428" expanded="true" signature="1086:1290" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Testing/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <folding>
+                <marker date="1550720170747" expanded="true" signature="6:128" ph="..." />
+                <marker date="1550720170747" expanded="true" signature="147:2278" ph="{...}" />
+                <marker date="1550720170747" expanded="true" signature="167:2276" ph="{...}" />
+                <marker date="1550720170747" expanded="true" signature="258:1938" ph="{...}" />
+                <marker date="1550720170747" expanded="true" signature="339:1099" ph="/* List&lt;QueueItem&gt; testList = new List&lt;QueueItem&gt; ... */" />
+                <marker date="1550720170747" expanded="true" signature="1496:1576" ph="{...}" />
+                <marker date="1550720170747" expanded="true" signature="1760:1928" ph="{...}" />
+                <marker date="1550720170747" expanded="true" signature="2065:2270" ph="{...}" />
+                <marker date="1550720170747" expanded="true" signature="2123:2260" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+              <folding>
+                <marker date="1550720214093" expanded="true" signature="29:791" ph="{...}" />
+                <marker date="1550720214093" expanded="true" signature="58:789" ph="{...}" />
+                <marker date="1550720214093" expanded="true" signature="279:783" ph="{...}" />
+                <marker date="1550720214093" expanded="true" signature="305:773" ph="{...}" />
+                <marker date="1550720214093" expanded="true" signature="406:693" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/ThrottleService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Testing/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleService.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/QueueItem.cs" />
+        <option value="$PROJECT_DIR$/Testing/ThrottleServiceTests.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/Throttler/Throttler.cs" />
+        <option value="$PROJECT_DIR$/Throttler.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/ThrottleService.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/Constants.cs" />
+        <option value="$PROJECT_DIR$/Testing/Program.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs" />
+        <option value="$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ThrottleServiceTest" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ThrottleServiceTest" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Test" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ThrottleServiceTest" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Test" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Testing" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ThrottleServiceTest" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Worker" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ThrottleServiceTest" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Worker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ThrottleServiceExample" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workdir/eventengine" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Test\Testing">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ThrottleServiceExample/bin/Debug/netcoreapp2.2/ThrottleServiceExample.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThrottleServiceExample" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ThrottleServiceExample/ThrottleServiceExample.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test\Testing" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Testing/bin/Debug/netcoreapp2.2/Testing.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Testing/Testing.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Test\Testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b08448ff-6855-4271-b19c-fd6183b4dfdf" name="Default Changelist" comment="" />
+      <created>1550613359617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550613359617</updated>
+      <workItem from="1550613360826" duration="5952000" />
+      <workItem from="1550619431581" duration="22073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28025000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49928468" visible="true" weight="0.16719915" />
+      <window_info id="Structure" order="1" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.16719915" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32953367" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27564767" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32953367" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs" initialLine="28">
+            <startOffsets>
+              <option value="922" />
+            </startOffsets>
+            <endOffsets>
+              <option value="995" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceTest.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/ThrottleServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <marker date="1550613361755" expanded="true" signature="44:185" ph="{...}" />
+            <marker date="1550613361755" expanded="true" signature="64:183" ph="{...}" />
+            <marker date="1550613361755" expanded="true" signature="110:177" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <marker date="1550719695437" expanded="true" signature="29:268" ph="{...}" />
+            <marker date="1550719695437" expanded="true" signature="79:192" ph="{...}" />
+            <marker date="1550719695437" expanded="true" signature="224:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/ThrottleService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <marker date="1550718705789" expanded="true" signature="44:225" ph="{...}" />
+            <marker date="1550718705789" expanded="true" signature="79:220" ph="{...}" />
+            <marker date="1550718705789" expanded="true" signature="135:208" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <marker date="1550720170747" expanded="true" signature="6:128" ph="..." />
+            <marker date="1550720170747" expanded="true" signature="147:2278" ph="{...}" />
+            <marker date="1550720170747" expanded="true" signature="167:2276" ph="{...}" />
+            <marker date="1550720170747" expanded="true" signature="258:1938" ph="{...}" />
+            <marker date="1550720170747" expanded="true" signature="339:1099" ph="/* List&lt;QueueItem&gt; testList = new List&lt;QueueItem&gt; ... */" />
+            <marker date="1550720170747" expanded="true" signature="1496:1576" ph="{...}" />
+            <marker date="1550720170747" expanded="true" signature="1760:1928" ph="{...}" />
+            <marker date="1550720170747" expanded="true" signature="2065:2270" ph="{...}" />
+            <marker date="1550720170747" expanded="true" signature="2123:2260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottlerManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+          <folding>
+            <marker date="1550719656428" expanded="true" signature="6:84" ph="..." />
+            <marker date="1550719656428" expanded="true" signature="115:1308" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="158:1306" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="334:793" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="381:433" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="513:783" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="577:769" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="850:1300" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="995:1069" ph="{...}" />
+            <marker date="1550719656428" expanded="true" signature="1086:1290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/ThrottleService/QueueItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding>
+            <marker date="1550720214093" expanded="true" signature="29:791" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="58:789" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="279:783" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="305:773" ph="{...}" />
+            <marker date="1550720214093" expanded="true" signature="406:693" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThrottleServiceExample/Throttler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+          <folding>
+            <marker date="1550720334774" expanded="true" signature="6:73" ph="..." />
+            <marker date="1550720334774" expanded="true" signature="104:2955" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="133:2953" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="384:623" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="657:1131" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="902:959" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="1174:1645" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="1255:1309" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="1480:1570" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="1893:2009" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="2210:2520" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="2317:2411" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="2578:2947" ph="{...}" />
+            <marker date="1550720334774" expanded="true" signature="2659:2937" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
